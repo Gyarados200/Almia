@@ -9,7 +9,7 @@
     "cloud-env": "0.1.1",
     "es6-shim": "0.32.2",
     "http-proxy": "0.10.0",
-    "nodemailer": "1.4.0",
+    "nodemailer": "7.0.7",
     "node-static": "0.7.7"
   },
   "nonDefaultDependencies": {
